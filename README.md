@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/13549563/file/original-6ae54ebaabdcdf37e039a332113c4295.png?resize=1504x1128">
 
 
-I am currently a third-year undergraduate student in India, deeply passionate about Mechanical Engineering. Since childhood, I've been fascinated by the intricacies of machines and their potential to innovate and improve our lives.
+I am currently a final-year undergraduate student in India, deeply passionate about Mechanical Engineering. Since childhood, I've been fascinated by the intricacies of machines and their potential to innovate and improve our lives.
 
 My interests in mechanics, robotics, and electronics have driven me to pursue a degree in Mechanical Engineering, with a minor in Computing and Intelligence. I aspire to use my skills to contribute positively to society, aiming to make a meaningful impact on the world.
 
