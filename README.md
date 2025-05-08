@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/13549563/file/original-6ae54ebaabdcdf37e039a332113c4295.png?resize=1504x1128">
 
 
-Hi there! 👋
+
 I'm a final-year undergrad from India, originally diving deep into the world of Mechanical Engineering—but along the way, I found myself pulled into the exciting world of software and tech.
 
 What started as a curiosity quickly turned into a passion. From building small scripts to working on full-stack projects and exploring machine learning, I've loved every bit of the journey. I’m especially interested in creating scalable, impactful solutions that bring real value to users.
