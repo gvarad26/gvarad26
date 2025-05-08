@@ -6,9 +6,14 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/13549563/file/original-6ae54ebaabdcdf37e039a332113c4295.png?resize=1504x1128">
 
 
-I am currently a final-year undergraduate student in India, deeply passionate about Mechanical Engineering. Since childhood, I've been fascinated by the intricacies of machines and their potential to innovate and improve our lives.
+Hi there! 👋
+I'm a final-year undergrad from India, originally diving deep into the world of Mechanical Engineering—but along the way, I found myself pulled into the exciting world of software and tech.
 
-My interests in mechanics, robotics, and electronics have driven me to pursue a degree in Mechanical Engineering, with a minor in Computing and Intelligence. I aspire to use my skills to contribute positively to society, aiming to make a meaningful impact on the world.
+What started as a curiosity quickly turned into a passion. From building small scripts to working on full-stack projects and exploring machine learning, I've loved every bit of the journey. I’m especially interested in creating scalable, impactful solutions that bring real value to users.
+
+With a background in mechanics and a minor in Computing & Intelligence, I enjoy bridging the gap between hardware and software—and learning something new every day.
+
+Feel free to check out my projects or connect. Always open to collaboration or a quick tech chat!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
